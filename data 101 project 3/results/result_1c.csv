@@ -1,0 +1,5 @@
+building_name,json_agg
+EDWARDS FLD,"[{'site': 'Edwards Stadium West', 'building': 'EDWARDS FLD'}, {'site': 'Edwards Stadium East', 'building': 'EDWARDS FLD'}]"
+FAC CLUB,"[{'site': 'Womens Faculty Club', 'building': 'FAC CLUB'}, {'site': ""Men's Faculty Club"", 'building': 'FAC CLUB'}]"
+HAAS STU BLD,"[{'site': 'Haas School of Business', 'building': 'HAAS STU BLD'}, {'site': 'Haas School Student Services (Water)', 'building': 'HAAS STU BLD'}]"
+SIMON,"[{'site': 'Boalt and Simon Hall', 'building': 'SIMON'}, {'site': 'Simpson Center', 'building': 'SIMON'}]"
