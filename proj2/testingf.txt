@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+contents of file in current branch
+Another wug.
+
+contents of file in given branch
+This is not a wug.

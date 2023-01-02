@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+contents of file in current branch
+not b
+
+contents of file in given branch
+b

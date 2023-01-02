@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+contents of file in current branch
+d
+
+contents of file in given branch
+d
