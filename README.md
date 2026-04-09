@@ -1,3 +1,3 @@
 # sifathprojects
-This is a collection of Computer Science and Data Science Projects I have worked on while being a Data Science Major at UC Berkeley
-
+This repository is a collection of computer science and data science projects I worked on during my time at UC Berkeley.
+It includes a mix of coursework and independent projects covering areas like data analysis, programming, and problem-solving
